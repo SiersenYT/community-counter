@@ -29,7 +29,7 @@ Community statistics may be delayed, temporarily unavailable, or different from 
 
 ## 5. Privacy
 
-The application handles account information and authorization credentials as described in our [Privacy Policy](https://siersenyt.github.io/community-counter/privacy.md).
+The application handles account information and authorization credentials as described in our [Privacy Policy](https://siersenyt.github.io/community-counter/privacy/).
 
 ## 6. Changes and termination
 
